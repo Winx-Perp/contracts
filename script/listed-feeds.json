@@ -1,0 +1,98 @@
+[
+  {
+    "key": "bnb",
+    "id": 3,
+    "leverage": 40,
+    "feed": "0xf102995e7c8a734afb233695ae2f087cd3592673"
+  },
+  {
+    "key": "xrp",
+    "id": 4,
+    "leverage": 30,
+    "feed": "0xe20eaa6c23ad12b6098419a47cd8d3fb33074e8a"
+  },
+  {
+    "key": "sol",
+    "id": 5,
+    "leverage": 50,
+    "feed": "0x484a3059926254d6530fa081ea36eb6b9aba9a37"
+  },
+  {
+    "key": "trx",
+    "id": 6,
+    "leverage": 30,
+    "feed": "0xb30f901585c963bb14b1b396f530344fca357608"
+  },
+  {
+    "key": "hype",
+    "id": 7,
+    "leverage": 30,
+    "feed": "0xa68974Da343520DD9154c41C62A5F4FD088eB91C"
+  },
+  {
+    "key": "zec",
+    "id": 8,
+    "leverage": 30,
+    "feed": "0x2b6a9e3885ae9ed4ff3462ad970b960588be5a21"
+  },
+  {
+    "key": "xmr",
+    "id": 9,
+    "leverage": 30,
+    "feed": "0xd00dcb8212f6645facdef9b6d410e5430f01f23e"
+  },
+  {
+    "key": "doge",
+    "id": 10,
+    "leverage": 30,
+    "feed": "0xda60fb0fdf6879e62d342e77e6400804ca06f124"
+  },
+  {
+    "key": "nvda",
+    "id": 11,
+    "leverage": 10,
+    "feed": "0x0b009227430f1a2cebcae5c6394c6c1cdecf4dc6"
+  },
+  {
+    "key": "spcx",
+    "id": 12,
+    "leverage": 10,
+    "feed": "0x351893c0d4452fddeae372eaf19c08f80650cef6"
+  },
+  {
+    "key": "meta",
+    "id": 13,
+    "leverage": 10,
+    "feed": "0xff00ae8921c1c0767daa60d4a9e992530d2808e4"
+  },
+  {
+    "key": "coin",
+    "id": 14,
+    "leverage": 10,
+    "feed": "0x17bdb6f1708bc16c80b98e9b0b6bd13a5877566e"
+  },
+  {
+    "key": "tteq",
+    "id": 15,
+    "leverage": 10,
+    "feed": "0xd7f166698ea8385962aa166250fcd2198ab51698"
+  },
+  {
+    "key": "tsla",
+    "id": 16,
+    "leverage": 10,
+    "feed": "0x2B340256d6FEDb5179ad27f8BeD87524cF744279"
+  },
+  {
+    "key": "googl",
+    "id": 17,
+    "leverage": 10,
+    "feed": "0x18960eb5c718ae39bd1ded471ddedb22d4a28313"
+  },
+  {
+    "key": "aapl",
+    "id": 18,
+    "leverage": 10,
+    "feed": "0xd0cab71210f7f74fba56200b68240153e804edf2"
+  }
+]
