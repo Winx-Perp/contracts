@@ -94,5 +94,11 @@
     "id": 18,
     "leverage": 10,
     "feed": "0xd0cab71210f7f74fba56200b68240153e804edf2"
+  },
+  {
+    "key": "ant",
+    "id": 19,
+    "leverage": 50,
+    "feed": "0xb2508c331fac13f0afeefdaa7f5f247088c7e09e"
   }
 ]
